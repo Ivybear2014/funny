@@ -1,0 +1,15 @@
+.id:hover
+{
+    background-color: rgb(40, 40, 199);
+}
+canvas
+{
+    border: 10px dotted rgb(99, 44, 99);
+}
+body
+{
+    animation-name: e;
+    animation-duration: 1s;
+    animation-iteration-count:infinite ;
+
+}
